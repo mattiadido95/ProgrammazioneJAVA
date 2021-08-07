@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParametriDiConfigurazione>
+  <parametriServer>
+    <indirizzoIPServerDiLog>localhost</indirizzoIPServerDiLog>
+    <portaServerDiLog>8080</portaServerDiLog>
+  </parametriServer>
+  <parametriDatabase>
+    <indirizzoIPDatabase>localhost</indirizzoIPDatabase>
+    <portaDatabase>3306</portaDatabase>
+    <nomeDatabase>registrospese</nomeDatabase>
+    <usernameDatabase>root</usernameDatabase>
+    <passwordDatabase></passwordDatabase>
+  </parametriDatabase>
+  <parametriStilistici>
+    <font>Bahnschrift</font>
+    <dimensioneFont unita="pt">12</dimensioneFont>
+    <coloreBackground>lightskyblue</coloreBackground>
+    <coloreFont>white</coloreFont>
+  </parametriStilistici>
+  <parametriUser>
+    <nickname>Mattia</nickname>
+  </parametriUser>
+  <parametriMenuCategorie>
+    <categorie>
+      <string>abbigliamento</string>
+      <string>tabacchi</string>
+      <string>svago</string>
+      <string>sport</string>
+      <string>universita</string>
+      <string>auto</string>
+    </categorie>    
+  </parametriMenuCategorie>
+</ParametriDiConfigurazione>

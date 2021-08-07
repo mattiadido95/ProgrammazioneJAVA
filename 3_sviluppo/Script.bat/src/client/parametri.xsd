@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="ParametriDiConfigurazione">
+  <xs:complexType>
+    <xs:sequence>
+
+      <xs:element name="parametriServer">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="indirizzoIPServerDiLog" type="xs:string"/>
+            <xs:element name="portaServerDiLog" type="xs:integer"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+
+      <xs:element name="parametriDatabase">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="indirizzoIPDatabase" type="xs:string"/>
+            <xs:element name="portaDatabase" type="xs:integer"/>
+            <xs:element name="nomeDatabase" type="xs:string"/>
+            <xs:element name="usernameDatabase" type="xs:string"/>            
+            <xs:element name="passwordDatabase" type="xs:string"/>            
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    
+      <xs:element name="parametriStilistici">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="font" type="xs:string"/>
+            <xs:element name="dimensioneFont">
+              <xs:complexType>
+                <xs:simpleContent>
+                  <xs:extension base="xs:string">
+                    <xs:attribute name="unita" type="xs:string" use="required"/>
+                  </xs:extension>
+                </xs:simpleContent>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="coloreBackground" type="xs:string"/>
+            <xs:element name="coloreFont" type="xs:string"/>         
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+
+      <xs:element name="parametriUser">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="nickname" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType> 
+      </xs:element>
+
+      <xs:element name="parametriMenuCategorie">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="categorie">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="string" maxOccurs="unbounded" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+</xs:schema>

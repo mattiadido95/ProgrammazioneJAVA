@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:06:29</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="CLICK_PULSANTE_FILTRA_STATISTICHE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:06:41</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="CLICK_PULSANTE_FILTRA_DETTAGLI">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:06:51</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="CLICK_PULSANTE_AGGIUNGI_SPESA">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:07:31</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="CLICK_PULSANTE_AGGIUNGI_SPESA">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:07:49</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="CLICK_PULSANTE_FILTRA_STATISTICHE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:07:51</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="CLICK_PULSANTE_FILTRA_STATISTICHE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:07:58</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="TERMINE_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:08:26</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:13:02</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="TERMINE_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:13:05</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:15:33</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="TERMINE_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:15:35</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:31:54</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:33:49</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:35:35</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="TERMINE_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:35:45</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:35:52</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="TERMINE_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:35:55</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:44:16</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="TERMINE_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:44:19</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:46:02</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="TERMINE_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:46:05</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:46:14</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="TERMINE_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:46:19</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="AVVIO_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>19:51:09</ora>
+</MessaggioDiLog>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<MessaggioDiLog evento="TERMINE_APPLICAZIONE">
+  <indirizzoIP>192.168.56.1</indirizzoIP>
+  <nomeApplicazione>Registro Spese</nomeApplicazione>
+  <data>2021-04-07</data>
+  <ora>20:00:58</ora>
+</MessaggioDiLog>
+

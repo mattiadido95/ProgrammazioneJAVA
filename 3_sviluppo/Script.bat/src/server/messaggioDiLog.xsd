@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="MessaggioDiLog">
+  <xs:complexType>    
+    <xs:sequence>
+      <xs:element name="indirizzoIP" type="xs:string"/>
+      <xs:element name="nomeApplicazione" type="xs:string"/>
+      <xs:element name="data" type="xs:date"/>
+      <xs:element name="ora" type="xs:time"/>
+    </xs:sequence>
+    <xs:attribute name="evento" type="xs:string"/>
+  </xs:complexType>
+</xs:element>
+</xs:schema>
